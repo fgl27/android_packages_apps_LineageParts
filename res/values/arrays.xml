@@ -355,18 +355,46 @@
     <!-- Auto power save mode: Allowable trigger threshold entries -->
     <string-array name="auto_power_save_entries" translatable="false">
         <item>@string/auto_power_save_never</item>
-        <item>5%</item>
+        <item>10%</item>
         <item>15%</item>
+        <item>20%</item>
         <item>25%</item>
+        <item>30%</item>
+        <item>35%</item>
+        <item>40%</item>
+        <item>45%</item>
+        <item>50%</item>
+        <item>55%</item>
+        <item>60%</item>
+        <item>65%</item>
+        <item>70%</item>
+        <item>75%</item>
+        <item>80%</item>
+        <item>85%</item>
+        <item>90%</item>
     </string-array>
 
     <!-- Auto power save mode: Allowable trigger threshold levels.
          Similar to the battery_saver_trigger_values integer-array in Settings -->
     <string-array name="auto_power_save_values" translatable="false">
         <item>0</item>
-        <item>5</item>
+        <item>10</item>
         <item>15</item>
+        <item>20</item>
         <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
     </string-array>
 
     <!-- Gestures - touchscreen gesture actions -->
